@@ -31,7 +31,8 @@ The data in the txt file will be
 <img src = "https://i.imgur.com/UocUk21.png?1">
 
 # Demonstration
-<img src = "https://i.imgur.com/gTf7Ic7.gif">
+
+<img src = "https://i.imgur.com/Be7EfsC.gif">
 
 # Dependencies
 
