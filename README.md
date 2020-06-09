@@ -12,9 +12,23 @@ $ app.py
 
 - Step 1: Create data in input.txt file 
 
-- Step 2: Click AND-OR graph search button to find solution
+Example: We have sudoku as shown below
 
-<img src = "https://i.imgur.com/ZrfScFF.png?1">
+<img src = "https://i.imgur.com/gpX32dZ.png?1">
+
+The data in the txt file will be
+
+<img src = "https://i.imgur.com/X9mGtSv.png?1">
+
+- Step 2: Import the created file
+
+<img src = "https://i.imgur.com/5IqeHb6.png?1">
+
+<img src = "https://i.imgur.com/bdLyK8k.png?1">
+
+- Step 3: Click Ac3 algorithm to find solution
+
+<img src = "https://i.imgur.com/UocUk21.png?1">
 
 # Demonstration
 <img src = "https://i.imgur.com/gTf7Ic7.gif">
