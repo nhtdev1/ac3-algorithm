@@ -2,6 +2,8 @@
 
 This is project resolving Sudoku problem using AC3 algorithm
 
+Github: https://github.com/thinhhoangnguyen/ac3-algorithm
+
 # Running
 
 $ pip install tkinter
@@ -26,7 +28,7 @@ The data in the txt file will be
 
 <img src = "https://i.imgur.com/bdLyK8k.png?1">
 
-- Step 3: Click Ac3 algorithm to find solution
+- Step 3: Click Ac3 algorithm button to find solution
 
 <img src = "https://i.imgur.com/UocUk21.png?1">
 
